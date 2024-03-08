@@ -1,4 +1,5 @@
 # 2021 제3회 AIxbookathon 대회
+![Untitled](https://github.com/wldlsyy/2021_AIBookathon/assets/88418078/ff9d257e-054c-4372-9478-36a36cf964e9)
 
     전국 대학교 학부생을 대상으로 성균관대학교 학술정보관에서 주관한 대회이다.
     이번 대회 주제는 "함께" 이다.
